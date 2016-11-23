@@ -1,2 +1,2 @@
 # sample
-samples
+sample
